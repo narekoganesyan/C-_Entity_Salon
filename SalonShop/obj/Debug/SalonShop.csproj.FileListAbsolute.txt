@@ -1,0 +1,16 @@
+C:\Users\Narek\source\repos\SalonShop\SalonShop\bin\Debug\SalonShop.exe.config
+C:\Users\Narek\source\repos\SalonShop\SalonShop\bin\Debug\SalonShop.exe
+C:\Users\Narek\source\repos\SalonShop\SalonShop\bin\Debug\SalonShop.pdb
+C:\Users\Narek\source\repos\SalonShop\SalonShop\bin\Debug\EntityFramework.dll
+C:\Users\Narek\source\repos\SalonShop\SalonShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Narek\source\repos\SalonShop\SalonShop\bin\Debug\EntityFramework.xml
+C:\Users\Narek\source\repos\SalonShop\SalonShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Narek\source\repos\SalonShop\SalonShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Narek\source\repos\SalonShop\SalonShop\obj\Debug\SalonShop.csproj.AssemblyReference.cache
+C:\Users\Narek\source\repos\SalonShop\SalonShop\obj\Debug\SalonShop.Properties.Resources.resources
+C:\Users\Narek\source\repos\SalonShop\SalonShop\obj\Debug\SalonShop.csproj.GenerateResource.cache
+C:\Users\Narek\source\repos\SalonShop\SalonShop\obj\Debug\SalonShop.csproj.CoreCompileInputs.cache
+C:\Users\Narek\source\repos\SalonShop\SalonShop\obj\Debug\SalonShop.csproj.CopyComplete
+C:\Users\Narek\source\repos\SalonShop\SalonShop\obj\Debug\SalonShop.exe
+C:\Users\Narek\source\repos\SalonShop\SalonShop\obj\Debug\SalonShop.pdb
+C:\Users\Narek\source\repos\SalonShop\SalonShop\obj\Debug\SalonShop.Insert_TB.resources
